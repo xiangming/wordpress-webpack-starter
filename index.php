@@ -1,5 +1,5 @@
-<? get_template_part( 'templateParts/head' );  ?>
+<?php get_header(); ?>
 <div>
   <p>Index</p>
 </div>
-<? get_template_part( 'templateParts/footer' );  ?>
+<?php get_footer(); ?>
